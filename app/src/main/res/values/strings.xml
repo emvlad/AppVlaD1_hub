@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jungle1</string>
+    <string name="jungle_welcome">Welcome to Jungle 1</string>
+    <string name="txtGame">Game 1</string>
+    <string name="txtCounter">Counter</string>
+</resources>
